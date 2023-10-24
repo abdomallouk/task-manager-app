@@ -1,0 +1,13 @@
+
+.tasks-container {
+    /* background-color: rgb(222, 222, 222); */
+}
+
+.task {
+    background: #f4f4f4;
+    width: 30%;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
